@@ -3,6 +3,7 @@
 **FocusPal** is an Arduino Uno desk robot that helps students and remote workers study better. It runs Pomodoro focus/break sessions and **locks your phone in a servo-driven compartment during focus time**. It also warns you when you sit too close, monitors temperature, humidity, light and noise, and pauses when you leave the desk. Feedback comes through an LCD, an animated OLED robot face, moving servo "ears" and voice clips.
 
 **Course:** CSE461 – Introduction to Robotics, BRAC University (Summer 2026)
+
 **Team (Group 06, Section 09):** Omar Faruk, Md. Jubaid Hasan, Zobeida Zaman Chowdhury, Hasan Mohammad Sayem, Navil Hossain Chowdhury
 
 <p align="center">
